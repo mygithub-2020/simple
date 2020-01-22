@@ -11,3 +11,4 @@ This is addon content.
 
 dfdfdfdf
 
+test it
