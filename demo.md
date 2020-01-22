@@ -1,14 +1,8 @@
 This is first demo file.
 
-I will add and commit.
+here is the list 
 
-Test it.
-
-This is addon content.
-
-##comment added
-
-
-dfdfdfdf
+* item 1 
+* item 2
 
 test it
